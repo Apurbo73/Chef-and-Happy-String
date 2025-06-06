@@ -119,3 +119,6 @@ abcrstuv
 
 ---
 
+This C++ program checks if a given string contains at least three consecutive vowels (a, e, i, o, u). For each test case, it reads the string and loops through its characters. It uses a counter to track how many vowels appear in a row. If the counter goes above 2, it means there are more than two consecutive vowels, and the program marks Chef as "HAPPY".
+
+If a consonant is found, the counter resets since the vowel streak is broken. After checking the whole string, the program prints "HAPPY" if the condition was met, otherwise it prints "SAD". This logic is repeated for all test cases provided in the input.
