@@ -119,4 +119,3 @@ abcrstuv
 
 ---
 
-Let me know if you’d like this with [sample output walkthrough](f) or [a commented version of the code](f).
